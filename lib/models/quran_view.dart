@@ -1,0 +1,4 @@
+enum QuranView{
+  complete,
+  pages,
+}
